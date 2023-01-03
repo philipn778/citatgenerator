@@ -85,26 +85,6 @@ body{
     display: flex;
 }
 
-.features ul li{
-    list-style: none;
-    margin: 0 5px;
-    height: 47px;
-    width: 47px;
-    display: flex;
-    cursor: pointer;
-    color: rgb(57, 185, 245);
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-    border: 2px solid rgb(57, 185, 245);
-    transition: all 0.3s ease;
-}
-
-.features ul li:hover{
-    color: #fff;
-    background: rgb(57, 185, 245);
-}
-
 .features button{
     border: none;
     outline: none;
@@ -114,5 +94,4 @@ body{
     padding: 13px 22px;
     border-radius: 30px;
     background: rgb(57, 185, 245);
-
 }
